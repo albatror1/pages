@@ -1,0 +1,12 @@
+INSTRUCCIONES RÁPIDAS (Meta Privacy Policy URL)
+
+1) Edite los archivos y complete los campos marcados como COMPLETAR (nombre legal, email, domicilio y nombre de la app).
+2) Hospédelos en una URL pública con HTTPS. Opciones simples:
+   - GitHub Pages: cree un repo público, suba los .html a la raíz y active Pages (Branch: main, /root).
+   - Netlify / Vercel: arrastre y suelte estos archivos en un nuevo sitio.
+   - Su propio dominio: copie los .html a su hosting (por ejemplo https://midominio.com/politica/).
+   - Google Sites o Notion (páginas públicas con URL HTTPS) también suelen ser aceptadas.
+3) Use la URL pública de privacy-policy.html en Meta Developers:
+   App > Configuración > Básica > “Privacy Policy URL”.
+4) Para apps de Instagram Basic Display o revisión de permisos, también agregue la URL de “Data Deletion” si se la piden.
+5) Asegúrese de que la URL no sea localhost ni IP privada, y que cargue sin redirecciones rotas.
